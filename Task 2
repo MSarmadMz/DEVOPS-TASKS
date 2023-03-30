@@ -1,1 +1,121 @@
-
+1 : Extreme Programming Framework :
+                   
+                  Another Name :
+                                XP (Xtreme Programming)
+                  Design:
+                             XP is designed to be flexible and easily adaptable for any kind of environment.
+                             
+                  "XP basically performs customer satisfaction and the entire team collaboration that who is doing what and upto which extent."
+              
+           XP has set of values , principles and practices.
+           
+   
+ 2 : Pair Programming and Benefits:
+                                  
+                                   Lies Under one of practices of xtreme programming.
+                        " practice where two programmers work on same computer to write code ."
+                 1 The Driver : One who writes Code .
+                 2 The Navigator : One who review the code written."
+                 
+         Benefits :
+                       
+                 Several benefits including :
+                 
+                 Better quality of Code.
+                 Better Learning.
+                 Less Distractions.
+                 
+ 3 : Git Repo Guidelines in Agile Development 
+             
+           Guidelines include :
+           
+          1 Descriptive Commit Messages 
+          2 Git Hooks
+          3 Branches 
+          4 Git Tags
+          
+ 4 : Benefits of working in Batches in Agile 
+ 
+       1 Better Collaboration 
+       2 Reduce risks
+       3 Fast Feedback
+       4 Increased Agility
+       
+ 5 : MVP 
+           
+           Process of creation of basic version of a product by company
+         
+       The created product has the all minimum features within the prduct and the product is further enhanced or iterated or updated on the feedback and demand
+                    of its users.
+                    
+            Helpful:
+                    MVP is helpful in a way that the company gets the idea either there is a need of that particular product in the market or not resulting in 
+                    investing the bigger amount on product that is even not required and useful for customers.
+                    
+  6 : TDD and BDD 
+               
+               Both ensure the Fuctionality and quality in Software.
+               
+               Difference :
+                        
+                      1) IN TDD , Tests are written First before the actual Code while in BDD the main focus is on behaviour of software.
+                      
+                      2) In TDD , Failing Tests  are written first to identify specific requirements and then writing the code while in BDD the code is written in
+                         Natural form for the easy understanding of technical and non technical teams.
+                         
+                      3) TDD focuses on testing individual units of Code while BDD focuses on software testing as a whole.
+          
+   7 : TDD importance in DevOps 
+           
+           1 ) Early bug detection 
+           2 ) Increased Colllaboration 
+           3 ) Faster feedback
+           
+           
+   8 : Cloud Native Microservices 
+               
+                Microservices :
+                               Independent services that connect with eachother through API's increasing flexibilty and agility in development.
+                               
+                You may say CNM use divide and conquer rule as They break to handle large and complex apps into smaller components.
+                
+                By the Way CNM use cloud-based infranstructure to manage the deployment of these services.
+                
+                
+   9 : Designing for Failure in DevOps 
+                    
+                    Designing For Failure Helps in recovering from unexpected errors.
+                    
+                    Key Strategies Include :
+                    
+                    1) Redundancy  (On running state even if an error occurs the program is not terminated but keeps on running )
+                    2) Fault Isolation 
+                    3) Regular Testing
+                    4) Recovery Planning ( How to handle your system against Cyber attacks )
+                    
+                    
+    10 : Taylorism 
+                
+                Another Name :
+                            Scientific Management
+                            
+                " breaking down work into simple components and then optimizing each componnet for maximium efficiency "
+                
+                Priciples :
+                  
+                     1 )  Labor Divizion 
+                     2 )  Standardizes
+                     3 )  Specialized
+                     4 )  Scientific Analysis
+                    
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
