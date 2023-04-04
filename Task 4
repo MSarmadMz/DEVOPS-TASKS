@@ -1,0 +1,207 @@
+1 : Key Drivers For Moving To Cloud :
+     
+     1) Scalability
+     2) Cost Saving
+     3) Agilty
+     4) Accessibility
+     5) Security
+     
+2 : Cloud infrastructure :
+     
+    Choosing a specific region, 
+                               organizations can select a location that is geographically closer to their users.
+     
+    Storage resources include:
+
+       1) Content Delivery Network (CDN):
+                                         Globally distributed network of servers that caches and delivers content to users from the nearest location.
+
+       2) Compute Instances: 
+                            Virtual machines or containers that can be used to run applications or workloads.
+
+       3) Storage:
+                  Storage for files, databases, and other data, typically offered in block, object, or file storage formats.
+
+       4) Databases:
+                   Database services for relational and non-relational databases, including MySQL, PostgreSQL, Oracle, and MongoDB.
+ 
+ 3 : Virtualization in Cloud and its Working :
+ 
+                                       " Technique that enables multiple virtual machines (VMs) or containers to run on a single physical server or host. "
+                                       
+        Working :
+            
+           1) Hypervisor
+           2) Virtual Machines
+           3) Resource Pooling
+           4) Virtual Networks
+           5) Management Tools
+           
+           
+  4 : Cloud Security and Its Threats :
+  
+             " Measures and practices that are implemented to protect cloud-based resources and data from unauthorized access."
+             
+     Cloud security is critical as cloud computing environments are highly dynamic and distributed with multiple users accessing and sharing resources
+     over the internet.
+     
+     Security threats associated with cloud computing:
+
+            1) Data Breaches:
+                              Data breaches occur when unauthorized individuals gain access to sensitive data,
+                              such as customer information or financial records.
+                              
+                              Cloud data breaches can occur due to a variety of factors, including weak access controls, insecure APIs, 
+                              and vulnerabilities in the underlying infrastructure.
+
+            2) Malware and Ransomware:
+                                      Malware and ransomware are types of malicious software that can infect cloud-based resources and cause damage
+                                      or data loss. Malware can be spread through phishing attacks or by exploiting vulnerabilities in the cloud environment.
+ 
+            3) Insider Threats:
+                       Insider threats occur when authorized individuals, such as employees or contractors, intentionally or unintentionally
+                       cause security breaches. 
+                       
+                       Insider threats can be difficult to detect and prevent, as they often involve trusted individuals with legitimate access to cloud resources.
+
+            4) Denial-of-Service (DoS) Attacks:
+                                           DoS attacks involve overwhelming cloud-based resources with traffic or requests, making them unavailable
+                                           to legitimate users. 
+                                           
+                                           DoS attacks can be carried out using botnets or other means, and they can cause significant 
+                                           disruption to cloud-based services.
+
+            5) Misconfigured Services:
+                                       Misconfigured cloud services can leave resources and data vulnerable to attack.
+                            
+                                       Cloud service providers offer a wide range of security controls, but users must configure these controls correctly
+                                       for maximum protection.
+              
+                 
+    5 : Cloud Storage Types :
+                
+                1) Object Storage 
+                2) Block Storage
+                3) File Storage
+                4) Archive Storage
+                5) Cold Storage
+                
+                
+      6 :  Multi-Cloud:
+                       
+                      " A cloud computing approach that involves using two or more cloud service providers to meet various business requirements. "
+                      
+                   Multi-cloud allows organizations to leverage the strengths of different cloud providers, such as cost, performance, and availability, 
+                   while avoiding vendor lock-in. By distributing workloads across multiple clouds, multi-cloud can also improve redundancy and resilience.
+
+          Hybrid Multi-Cloud:
+          
+                         "A combination of multi-cloud and on-premises infrastructure were some workloads are hosted in the public cloud, while others are hosted 
+                         in private data centers or on-premises infrastructure."
+                         
+                         
+                  Hybrid multi-cloud enables organizations to take advantage of the benefits of cloud computing while maintaining control over sensitive 
+                  data and applications.
+
+          Serverless:
+               
+                    "A cloud computing model in which the cloud provider manages the infrastructure and automatically allocates resources as needed."
+                    
+                    
+                  With serverless computing, developers can write and deploy code without worrying about the underlying infrastructure. 
+                  Serverless computing is ideal for building event-driven and microservices-based applications, as it can provide automatic scaling,
+                  high availability, and reduced operational overhead.
+       
+      7 : Cloud Native Apps :
+                    
+                      "Apps designed and built specifically to run on cloud computing infrastructure."
+                         
+                Unlike traditional applications that are built for on-premises data centers, cloud-native applications are designed to 
+                take advantage of the benefits of cloud computing, such as scalability, availability, and resilience.
+           
+       8 : DevOps on Cloud:
+                 
+                 Ways in which DevOps works on the cloud:
+
+                    1) Continuous Integration and Deployment (CI/CD):
+                        
+                                          DevOps teams use CI/CD pipelines to automate the build, testing, and deployment of software applications.
+                                          CI/CD pipelines help ensure that software changes are quickly and reliably tested and deployed to production environments.
+                                          
+
+                    2) Infrastructure as Code (IaC):
+                                         
+                                         DevOps teams use IaC to provision and manage cloud infrastructure using code rather than manual processes.
+                                         IaC allows infrastructure to be managed in a consistent, repeatable, and automated way, improving the efficiency 
+                                         and reliability of infrastructure management.
+
+                    3) Automated Testing:
+                    
+                                         DevOps teams use automated testing to quickly and accurately test software applications.
+                                         Automated testing reduces the risk of bugs and errors and helps ensure that software applications meets
+                                         required quality standards.
+
+                    4) Monitoring and Logging:
+                    
+                                         DevOps teams use monitoring and logging tools to track the performance and availability of cloud infrastructure 
+                                         and applications. Monitoring and logging provide real-time visibility into the health of the system, 
+                                         allowing DevOps teams to quickly identify and resolve issues.
+
+                    5) Collaboration and Communication:
+                                         DevOps teams rely heavily on collaboration and communication to facilitate the rapid development and deployment
+                                         of software applications. Cloud computing enables teams to work together more effectively by providing a shared 
+                                         infrastructure and toolset, reducing communication barriers and facilitating faster decision-making.
+           
+           
+           
+      9 : Difference between DevOps and DevSecOps :
+                   
+                   Main differences between the two are :
+
+                    1) Focus:
+                    
+                             DevOps focuses on integrating software development and IT operations, 
+                             while 
+                             DevSecOps adds security to the mix. DevSecOps aims to ensure that security is an integral part of the software development lifecycle.
+
+                    2) Collaboration:
+                    
+                             DevOps emphasizes collaboration between development and operations teams,
+                             while 
+                             DevSecOps adds security teams to the mix. DevSecOps emphasizes collaboration between development, operations,
+                             and security teams to ensure that security is built into the software development process from the beginning.
+
+                    3) Automation:
+                    
+                                  Both DevOps and DevSecOps rely heavily on automation to speed up software development and deployment. 
+                                  However, 
+                                    in DevSecOps, automation is used not only for development and deployment but also for security testing and monitoring.
+
+                    4) Risk Management:
+                    
+                                    DevSecOps places a greater emphasis on risk management than DevOps.
+                                    In DevSecOps, 
+                                             risk management is an integral part of the software development process, with security teams working closely 
+                                             with development and operations teams to identify and mitigate potential security risks.
+
+                    5) Tools and Technologies: 
+                                  
+                                    DevSecOps requires additional tools and technologies to ensure that security is integrated into the software development lifecycle.
+                                    These may include tools for vulnerability scanning, threat modeling, and compliance monitoring.
+           
+           
+           
+           
+        10 : Cloud Monitoring :
+                            
+                            "Process of tracking and analyzing the performance, availability and security of cloud infrastructure and application."
+                            
+                        Aspects :
+                                
+                                 1) Metrics
+                                 2) Alerts
+                                 3) Dashboard
+                                 4) Security
+                            
+           
+ ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
