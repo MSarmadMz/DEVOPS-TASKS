@@ -1,0 +1,138 @@
+ 1 : What are DevOps Behaviours ?
+    DevOPs:
+           A cculture where the development and Operations teams collab to provide the software rapidly as per the clients demand.
+            
+     Behaviours :
+     
+     1 ) Collaboration :  Teams should collab with eachother just in case to know the progress of software in a better way.
+     2 ) Consistency : The teams should be continuously improving the code and everything else for the rapid development.
+     3 ) Flexibilty : The teams should be flexible enough to adapt the change asked in the development and keep on practicing new and advanced Tools.
+     4 ) Customer care : Teams should develop the software considering the customers demands and needs in mind.
+     5 ) Experimets : Teams should be expering every new Tool just in case for the better development.
+     
+ 2 : What is infranstructure as Code and its Benefits ?
+    
+     IaC is an automate process of deploying and configuring the infranstructure servers and storage using code by development and operations teams which 
+     can be further tested like other softwares.
+     
+     Benefits :
+     1 ) Sacalability 
+     2 ) Version Control
+     3 ) Efficiency
+     4 ) Testing
+    
+ 3 : Continuous Integration :
+            
+             Software Development Process where developers integrate code changes into a repo for catching errors and bugs early in developmnet process.
+        Elements :
+        1 ) Frequent code changes 
+        2 ) Early bugs detection
+        3 ) Automated Testing
+        
+ 4 : Continuous Delivery :
+                     
+                     Extention Of Continuous Integration by automationg the entire development process.
+             Key Elements :
+             
+           1 ) Automated Build,Test and Deployment 
+           2 ) Roll back and Recovery
+           3 ) Continuous Feedback
+           
+  5 : Here are some of the key differences between DevOps and SRE:
+
+          Focus: DevOps focuses on collaboration and communication between development and operations teams, while SRE focuses on managing and maintaining complex
+                 software systems.
+
+          Goals: The goal of DevOps is to improve the speed and quality of software development and deployment, while the goal of SRE is to ensure that systems
+                 are reliable, scalable, and efficient.
+
+          Processes: DevOps is centered around agile development methodologies and continuous integration/continuous delivery (CI/CD) processes, 
+                     while SRE focuses on automation, monitoring, and continuous improvement.
+
+          Team Structure: DevOps teams are typically cross-functional teams that include developers, operations, and other stakeholders, while SRE teams
+                          are typically made up of specialized engineers with expertise in infrastructure, automation, and reliability.
+
+          Metrics: DevOps typically focuses on metrics related to speed and quality of software delivery, while SRE focuses on metrics related to 
+                   system uptime, performance, and efficiency.
+   
+   6 : Organizational Impact of DevOps :
+              
+              1 ) Faster Development
+              2 ) Improved quality of code 
+              3 ) Greater Efficiency
+              4 ) Improved Security
+             
+   7 : Cloud Computing :
+                
+                 Delivering of computing like networks, servers , databases and much more
+                 
+   8 : Characteristics :
+   
+           1 ) Broad Network Access
+           2 ) Rapid Elasticity
+           3 ) Measured Service
+           
+   9 : Cloud Deployment Models :
+     
+     1 ) Public Model
+     2 ) Private Model
+     3 ) Hybrid Model
+     4 ) Multi-cloud 
+     
+     
+   10 : Cloud Service Models :
+       
+     1 ) Infrastructure-as-a-Service (IaaS): 
+                            IaaS provides access to computing resources, such as virtual machines, storage, and networking, on a pay-per-use basis.
+                            Customers have control over the operating systems, applications, and data, but the underlying infrastructure is managed
+                            by the cloud provider.
+        Benefits of IaaS:
+
+        1 ) Scalability
+        2 ) Cost savings
+        3 ) Flexibility
+   
+   2 ) Platform-as-a-Service (PaaS):
+                                    PaaS provides a platform for developing, testing, and deploying applications, with the underlying infrastructure 
+                                    managed by the cloud provider. PaaS provides a complete environment for application development and deployment, 
+                                    including programming languages, development tools, and pre-built components.
+      Benefits of PaaS:
+
+         1 ) Faster time-to-market
+         2 ) Cost savings
+         3 ) Simplified development
+         
+    3 ) Software-as-a-Service (SaaS): 
+                                      SaaS provides access to software applications over the internet, with the underlying infrastructure and maintenance 
+                                      managed by the cloud provider. Customers can use the software applications without the need for installation or maintenance.
+     Benefits of SaaS:
+
+     1 ) Lower costs
+     2 ) Scalability
+     3 ) Accessibility
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+ 
+     
