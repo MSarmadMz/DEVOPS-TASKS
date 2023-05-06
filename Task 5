@@ -1,0 +1,316 @@
+1 : Kanban and Kanban Board:
+    Kanban :
+       A Visual system that helps teams manage their work and workflow more effectively.
+    Kanban Board :
+       Kanban board is a physical or digital board that is used to visualize the work and workflow of a team. 
+       
+ /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ 
+ 2 : Core Principles Of Kanban :
+ 
+     1 : Visualize the workflow.
+
+     2 : Limit work in progress (WIP).
+
+     3 : Manage flow.
+
+     4 : Make process policies explicit.
+
+I    5 : Improve collaboratively and evolve experimentally.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+3 : What is Scrum ?
+                What are the different roles in the scrum (Product Owner, Scrum Master, and Scrum Team )? 
+                                                                              Explore the steps involved in a scrum process.
+
+      Scrum : 
+               An Agile framework for managing and completing complex projects.
+       Use  :        
+             Used by teams in software development, engineering, and marketing, to deliver high-quality work in an iterative 
+             and incremental manner. 
+             
+      Roles in Scrum:
+      
+             1 : Product Owner: 
+                         Product owner is responsible for defining and prioritizing the product backlog that are requirements
+                         need to be completed.
+                         The product owner works closely with stakeholders to ensure that the product
+                         backlog aligns with the overall vision for the product or project.
+
+             2 : Scrum Master: 
+                         Scrum Master is responsible for facilitating the Scrum process, ensuring that the team is following 
+                         Scrum practices and principles, and removing any obstacles that may be preventing the team from 
+                         delivering high-quality work.
+
+             3 : Scrum Team: 
+                         Scrum Team is a self-organizing team that is responsible for delivering the product incrementally and
+                         iteratively. 
+                         The team includes developers, designers, testers.
+
+      Steps in Scrum Process :
+      
+ 
+             1 : Sprint Planning: 
+                           The team collaborates to determine what work will be completed during the upcoming sprint, which is a
+                           fixed period of time (usually 2-4 weeks) during which the team will work on a set of tasks.
+
+             2 : Daily Scrum:
+                           The team meets daily to discuss progress, plan for the day, and address any obstacles or issues that 
+                           may be hindering progress.
+
+             3 : Sprint Review: 
+                           At the end of each sprint, the team demonstrates the completed work to stakeholders and receives feedback.
+
+             4 : Sprint Retrospective: 
+                           The team reflects on the previous sprint and identifies areas for improvement in the process, tools,
+                           or communication.
+
+             5 : Backlog Refinement: 
+                           The product owner and team work together to review and prioritize the product backlog, adding new items as
+                           necessary and refining existing items based on feedback and changing priorities.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+ 4 : Benefits of Scrum :
+ 
+       1 : Improved teamwork and collaboration : 
+                                       Scrum encourages teamwork and collaboration among team members, which leads to better communication,
+                                       shared knowledge, and increased productivity.
+
+       2 : Increased flexibility and adaptability: 
+                                      Scrum is designed to be flexible and adaptable to changing requirements, which makes it easier for teams 
+                                      to respond to changing market conditions, customer needs, and other factors.
+
+       3 : Increased transparency and visibility: 
+                                      Scrum uses a visual board (usually a Kanban board) to track progress and show the status of each task, 
+                                      which makes it easier for team members and stakeholders to understand the status of the project and identify
+                                      potential bottlenecks or issues.
+
+       4 : Faster delivery of high-quality products: 
+                                      Scrum is designed to deliver high-quality products quickly and efficiently by breaking work into smaller, 
+                                      manageable chunks and delivering them in short, fixed-duration sprints.
+
+       5 : Improved customer satisfaction: 
+                                      Scrum focuses on delivering value to the customer by prioritizing the most important features and 
+                                      requirements first, which helps to ensure that the customer is satisfied with the final product.
+
+       6 : Continuous improvement:
+                                     Scrum encourages teams to reflect on their process and make continuous improvements to their practices,
+                                     which leads to increased efficiency, productivity, and quality over time.
+             
+             
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+5 : User stories and story points :
+ 
+     User Stories :
+                   Way to describe the requirements of a software product or system from the perspective of the end user. 
+                   They are brief, simple, and easy-to-understand descriptions of a user's goal or need, and they serve as a reminder
+                   to the development team about the user's needs throughout the development process.
+
+    Story Points : 
+                  Relative estimation of the effort required to complete a user story. 
+                  Typically used in Agile and Scrum frameworks to help teams estimate the amount of work involved in completing a task,
+                  without the need for detailed and time-consuming planning. Story points are based on factors such as complexity, 
+                  effort, and risk.
+                  Usually represented on a scale from 1 to 10 or 1 to 100.
+                  
+   
+  INVEST characteristics of a Story :
+      
+
+   I For Independent: 
+                  The story should be independent of other stories, so that it can be developed and tested without depending on other stories.
+
+   N for Negotiable :
+                  The details of the story should be negotiable and subject to change, based on feedback and new information.
+
+   V For Valuable : 
+                 The story should provide value to the end user, the business, or other stakeholders.
+
+   E For Estimable :
+                 The story should be able to be estimated by the development team, in terms of effort, complexity, and risk.
+
+   S For Small :
+                 The story should be small enough to be completed within a single sprint, typically 1-2 weeks.
+
+   T For Testable :
+                 The story should be testable, so that the development team can verify that the story has been completed successfully.
+     
+       Epic :
+             Large, high-level user story that is too big to be completed in a single sprint.
+              
+                            Epics are typically broken down into smaller, more manageable user stories 
+                            which are then prioritized and completed in multiple sprints. 
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+6 : Sprint : 
+            
+             A time-boxed iteration of development work, during which the team plans, executes, and reviews their work. 
+             During a sprint,
+             team works to deliver a potentially shippable product increment, which is a working version of the product with all 
+             the necessary features and functionality.
+             
+           Length Of Sprint :
+                          Between one and four weeks long, with two weeks being the most common duration. The length of the sprint 
+                          should be determined based on the needs of the project and the team's ability to deliver a potentially 
+                          shippable product increment within the sprint duration.
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+7 : Product backlog :
+
+               "A prioritized list of all the features, functionality, and requirements that are needed to create a product or system".
+               
+      The product backlog is dynamic and continuously evolves as the team gains more information and feedback from stakeholders,
+      customers, and team members.
+
+      Effective ways to build a product backlog :
+      
+          1 :  Stakeholder feedback 
+
+          2 :  User research 
+          
+          3 : Prioritization
+
+          4 : Sprint retrospectives: 
+           
+           
+       Backlog Refinement :
+                   
+                 Also known as backlog grooming, is the process of regularly reviewing and updating the product backlog to ensure that
+                 it remains relevant and actionable.
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+8 : What are sprint planning and sprint milestones? How to create user stories and add
+    them to milestones on ZenHub?
+    
+    
+ Sprint planning is the process of defining the goals, scope, and work plan for the upcoming sprint. It involves the entire team
+ including the Product Owner, Scrum Master, and Development Team, and typically takes place at the beginning of each sprint. 
+ 
+ During sprint planning, the team reviews the product backlog, selects the items that they will work on during the sprint 
+ and defines the tasks and user stories that need to be completed to deliver a potentially shippable product increment.
+
+Sprint milestones are key events or deliverables that the team plans to achieve during the sprint. 
+
+These can include tasks, user stories, features, or other milestones that help the team stay on track and focused on delivering
+the most valuable product increment possible. By defining sprint milestones, the team can better track their progress and ensure 
+that they are meeting their goals and objectives.
+
+To create user stories and add them to milestones on ZenHub, you can follow these steps:
+
+  1 : Log in to ZenHub and select the repository where you want to add user stories.
+
+  2 : Click on the "Issues" tab and select "New Issue" to create a new user story.
+
+  3 : Add a title and description for the user story, including any necessary details, requirements, or acceptance criteria.
+
+  4 : Assign the user story to a sprint milestone by clicking on the "Milestones" dropdown and selecting the appropriate milestone.
+
+  5 : Estimate the effort required to complete the user story by adding story points or other relevant estimation metrics.
+
+  6 : Add any necessary labels, such as priority or severity, to the user story.
+
+  7 : Click "Create issue" to save the user story and add it to the selected sprint milestone.
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+10 : What is a daily workflow in agile development? What is a daily standup?
+What is sprint retrospective and sprint reviews? Who are the potential attendees of these meetings?
+
+
+  Daily workflow typically involves short, iterative sprints where the team works together to complete a set of tasks or user stories.
+  The daily workflow is designed to be highly collaborative and adaptive, with frequent communication, feedback, and course correction.
+
+  The daily standup, also known as the daily scrum, is a short daily meeting where the team gathers to discuss their progress,
+  share updates, and identify any blockers or issues that need to be addressed. The meeting typically lasts 15 minutes and is held at
+  the same time and location each day. During the standup, each team member answers three questions:
+
+What did you work on yesterday?
+What are you working on today?
+Are there any blockers or issues that are preventing you from making progress?
+
+The sprint retrospective is a meeting that takes place at the end of each sprint and is focused on reflecting on the team's performance, 
+identifying areas for improvement, and planning for the next sprint. The retrospective typically lasts 1-2 hours and involves the entire team, 
+including the Product Owner, Scrum Master, and Development Team. During the retrospective, the team reviews what went well, what didn't go well,
+and what can be improved in the next sprint.
+
+The sprint review is a meeting that takes place at the end of each sprint and is focused on reviewing the work that was completed and demonstrating
+the product increment to stakeholders and customers. The review typically lasts 1-2 hours and involves the entire team, including the Product Owner,
+Scrum Master, and Development Team, as well as any other stakeholders or customers who are interested in the product. During the review, the team
+presents their work and solicits feedback and suggestions for improvement.
+
+The potential attendees of these meetings include:
+
+The Product Owner, who provides direction and feedback on the product backlog and user stories
+The Scrum Master, who facilitates the agile process and helps remove any obstacles or issues
+The Development Team, who are responsible for completing the work and delivering the product increment
+Other stakeholders or customers who are interested in the product and want to provide feedback or input.
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+11 : How to measure sprint success? What are burndown charts?
+
+
+         Measuring sprint success is an important part of Agile development, as it allows the team to track their progress and ensure
+         that they are meeting their goals and objectives. 
+         
+         
+         There are several ways to measure sprint success, including:
+
+           1 : Velocity: 
+                
+                This refers to the amount of work the team completes during each sprint and can be measured in story points, hours, or other metrics.
+
+           2 : Sprint goals:
+             
+                These are the specific objectives that the team sets for each sprint and can be used to evaluate whether the team has achieved what 
+                they set out to do.
+
+          3 : Sprint backlog completion: 
+                
+                This refers to the percentage of tasks or user stories that the team completes during each sprint and can be used to track progress
+                and identify areas for improvement.
+
+         4 : Stakeholder feedback: 
+                  
+                This involves gathering feedback from stakeholders and customers on the product increment that was delivered during the sprint and
+                can be used to assess the quality and value of the work completed.
+                
+   Burndown charts :
+           
+            Useful tool for measuring sprint success.
+             
+                   A burndown chart is a graphical representation of the team's progress during the sprint, showing the amount of work 
+                   remaining versus the time remaining in the sprint. The chart typically starts with the total amount of work that needs 
+                   to be completed at the beginning of the sprint and shows how the team is progressing towards completing that work over time.
+
+            Burndown chart can help the team to identify whether they are on track to complete the work within the sprint timebox and 
+            can be used to adjust their approach if necessary. For example, if the chart shows that the team is falling behind, they may
+            need to adjust their workload or seek additional resources to help them complete the work on time.
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
